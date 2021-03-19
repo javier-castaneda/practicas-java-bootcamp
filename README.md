@@ -2,4 +2,6 @@
 
 * Ejercicios de primera práctica integradora: src/ejerciciosComp1
 
-* Ejercicios de segunda práctica integradora: src/ejercicioRadix
+* Ejercicios de segunda práctica integradora (Ejercicio RadixSort): src/ejercicioRadix
+
+* Ejercicios de tercera práctica integradora (Ejercicios de Clases): src/ejerciciosClases
