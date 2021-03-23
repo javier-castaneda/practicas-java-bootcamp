@@ -5,3 +5,5 @@
 * Ejercicios de segunda práctica integradora (Ejercicio RadixSort): src/ejercicioRadix
 
 * Ejercicios de tercera práctica integradora (Ejercicios de Clases): src/ejerciciosClases
+
+* Ejercicios de cuarta práctica integradora (Ejercicios de Herencia y clases abstractas): src/ejerciciosAbstract
