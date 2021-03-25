@@ -11,3 +11,5 @@
 * Ejercicios de quinta práctica integradora (Ejercicios de Interfaces): src/ejerciciosInterfaces
 
 * Ejercicios de sexta práctica integradora (Ejercicios de QuickSort, HeapSort y BubbleSort): src/ejercicioSorters - archivo de propiedades: MiFactory.properties
+
+*Ultimos tres ejercicios de Java (SaveTheRopa, Dakar, Marte Group S.A): src/ejercicioSaveTheRopa src/ejercicioDakar src/ejercicioMarteGroup respectivamente
